@@ -1,6 +1,7 @@
 # MRA
 Mobile Robotic Arm with App and Web Interface using Microcontrollers
 
+(Please consult the FLOW and APP diagrams for better understanding, after reading the below summary)
 
 The project works having the interaction between different software and hardware components as it’s backbone. The microcontroller used for the robotic car and sensor reading is the NodeMCU, the microcontroller used for the robotic arm is an Arduino UNO board.
 There are two apps developed using python, one for the car and for the arm.
